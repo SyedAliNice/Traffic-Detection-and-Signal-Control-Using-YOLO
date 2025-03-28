@@ -1,6 +1,6 @@
 
 # 🚦 Traffic Detection and Signal Control Using YOLO
-![image alt]()
+![image alt](https://github.com/SyedAliNice/Traffic-Detection-and-Signal-Control-Using-YOLO/blob/0153639f27f2e8e438a128f2238210f0f46369f1/a-digital-illustration-of-a-city-interse_Ue8-pT4QQoSPNHLq8LuHxA_fclCKxoxQampgTu_ao1GUA-fotor-2025032815505.jpg)
 
 #   📌 Overview
 This project utilizes YOLO (You Only Look Once) for traffic detection and signal control. The system detects vehicles in a selected region, calculates traffic density, and dynamically adjusts the traffic signal accordingly.
